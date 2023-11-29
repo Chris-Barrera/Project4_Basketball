@@ -23,6 +23,7 @@ For this project, you can focus your efforts within a specific industry, as deta
 
 Custom: 
 **-------------------We chose NBA / ABA Basketball Players -------------------------**
+
 Instructions: 
 - We’ve only specified healthcare and finance, but any industry can benefit from machine learning. Consider preparing a 15-minute data deep dive or infrastructure review that shows machine learning in the context of what we’ve already learned.
 - Create a front-end interface that maps to an API to “smarten” the algorithm.
@@ -34,21 +35,21 @@ Instructions:
 **Considerations**
 - Remember to closely monitor any AWS resources that you choose to use. It’s crucial that you clean up and stop, or shut down any AWS resources to avoid accruing additional costs.
 
-AWS Billing GuideLinks to an external site.
-Working with Your Group
-When working on an online group project, it’s crucial to meet with your group and communicate regularly. Plan for significant collaboration time outside of class. The following tips can help you make the most of your time:
-Decide how you’re going to communicate with your group members when you begin. Create a Slack channel, exchange phone numbers, and ensure that the group knows each group member’s available working hours.
-Set up an agile project by using GitHub ProjectsLinks to an external site. so that your group can track tasks.
-Create internal milestones to ensure that your group is on track. Set due dates for these milestones so that you have a timeline for completing the project. Some of these milestones might include:
-Project ideation
-Data fetching/API integration
-Data analysis
-Building the ML model
-Testing
-Creating documentation
-Creating the presentation
-Since this is a two-week project, make sure that you have done at least half of your project by the end of the first week to stay on track.
-Although you will divide the work among the group members, it’s essential to collaborate and communicate while working on different parts of the project. Be sure to check in with your teammates regularly and offer support.
+1. AWS Billing GuideLinks to an external site.
+2. Working with Your Group
+3. When working on an online group project, it’s crucial to meet with your group and communicate regularly. Plan for significant collaboration time outside of class. The following tips can help you make the most of your time:
+4. Decide how you’re going to communicate with your group members when you begin. Create a Slack channel, exchange phone numbers, and ensure that the group knows each group member’s available working hours.
+5. Set up an agile project by using GitHub ProjectsLinks to an external site. so that your group can track tasks.
+6. Create internal milestones to ensure that your group is on track. Set due dates for these milestones so that you have a timeline for completing the project. Some of these milestones might include:
+7. Project ideation
+8. Data fetching/API integration
+9. Data analysis
+10. Building the ML model
+11. Testing
+12. Creating documentation
+13. Creating the presentation
+14. Since this is a two-week project, make sure that you have done at least half of your project by the end of the first week to stay on track.
+15. Although you will divide the work among the group members, it’s essential to collaborate and communicate while working on different parts of the project. Be sure to check in with your teammates regularly and offer support.
 
 **Support and Resources**
 Your instructional team will provide support during classes and office hours. You will also have access to learning assistants and tutors to help you with topics as needed. Make sure to take advantage of these resources as you collaborate with your group on this first project.
